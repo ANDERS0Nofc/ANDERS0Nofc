@@ -1,6 +1,6 @@
 - 👋 Hello, I'm @ANDERS0Nofc
 - 👀 I am interested in learning how to program.
-- 🌱 I am currently learning python.
+- 🌱 I am currently learning JavaScript.
 - 💞️ I'm looking to collaborate in Rio De Janeiro
 - 📫 How to reach me (21981486368)
 
