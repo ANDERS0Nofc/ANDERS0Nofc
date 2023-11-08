@@ -1,10 +1,3 @@
-- 👋 Hello, I'm @ANDERS0Nofc
-- 👀 I am interested in learning how to program.
-- 🌱 I am currently learning JavaScript.
-- 💞️ I'm looking to collaborate in Rio De Janeiro
-- 📫 How to reach me (21981486368)
-
-<!---
-ANDERS0Nofc/ANDERS0Nofc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Minha Página de Links</title><style> body{font-family:Arial,sans-serif;background-color:#f0f0f0;margin:0;padding:0}header{background-color:#333;color:#fff;text-align:center;padding:20px}h1{margin:0}.container{max-width:800px;margin:0 auto;padding:20px}.link{background-color:#fff;border:1px solid #ccc;padding:20px;margin-bottom:20px}.link-title{font-size:20px;margin-bottom:10px}.link-list{list-style-type:none;padding:0;margin:0}.link-list-item{margin-bottom:10px}a{text-decoration:none;color:#0074cc}#login-form{display:none}#show-login{display:block}</style></head><body><header><h1>Minha Página de Links</h1><button id="show-login" onclick="showLoginForm()">Login</button></header><div class="container"><div class="link"><h2 class="link-title">Redes Sociais</h2><ul class="link-list"><li class="link-list-item"><a href="#">Facebook</a></li><li class="link-list-item"><a href="#">Twitter</a></li><li class="link-list-item"><a href="#">Instagram</a></li></ul></div><div class="link" id="login-form"><h2 class="link-title">Login</h2><form action="processar_login.php" method="POST"><label for="email">Email:</label><input type="email" id="email" name="email" required><br><br><label for="senha">Senha:</label><input type="password" id="senha" name="senha" required><br><br><input type="submit" value="Entrar"></form></div><div class="link"><h2 class="link-title">Projetos</h2><ul class="link-list"><li class="link-list-item"><a href="#">Projeto 1</a></li><li class="link-list-item"><a href="#">Projeto 2</a></li><li class="link-list-item"><a href="#">Projeto 3</a></li></ul></div></div><script>
+function showLoginForm(){var loginForm=document.getElementById("login-form");var showLoginButton=document.getElementById("show-login");if(loginForm.style.display === "none"){loginForm.style.display = "block";showLoginButton.style.display = "none";}else{loginForm.style.display = "none";showLoginButton.style.display = "block";}}
+</script></body></html>
